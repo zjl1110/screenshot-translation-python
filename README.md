@@ -22,3 +22,8 @@ translators==5.1.1
 # -w是无显示终端
 pyinstaller xxx.py -w
 ```
+
+参考资料：  
+[translators](https://github.com/UlionTse/translators)  
+[TextShot](https://github.com/ianzhao05/textshot)  
+[pyqt5 截屏,图片识别文字](https://www.cnblogs.com/g2thend/p/14333468.html)
